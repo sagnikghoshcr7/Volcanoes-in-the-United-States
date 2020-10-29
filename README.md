@@ -40,3 +40,6 @@ I have created different files for each step in creating the interactive diction
 
 * geo6.py
   * Change icons of markers to circular
+
+* geo7.py
+  * Use MarkerCluster() to cluster all markers according to zoom levels
