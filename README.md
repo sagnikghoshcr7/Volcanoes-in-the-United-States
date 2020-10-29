@@ -37,3 +37,6 @@ I have created different files for each step in creating the interactive diction
 
 * geo5.py
   * Add colors according to elevation of the Volcanoes
+
+* geo6.py
+  * Change icons of markers to circular
