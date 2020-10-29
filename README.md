@@ -31,3 +31,6 @@ I have created different files for each step in creating the interactive diction
 
 * geo3.py
   * Add multiple markers with help of 'for' loop
+
+* geo4.py
+  * Load Data and use that data to plot markers
