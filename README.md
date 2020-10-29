@@ -43,3 +43,6 @@ I have created different files for each step in creating the interactive diction
 
 * geo7.py
   * Use MarkerCluster() to cluster all markers according to zoom levels
+
+* geo8_choropleth.py
+  * The code for the choropleth map (US unemployment rate in %)
