@@ -10,3 +10,11 @@ Installing dependencies is the first thing you want to do.
 pip install folium
 
 ```
+
+## 2. Understanding files in the directory
+
+### Data
+
+1. Volcanoes_USA.txt
+2. us-states.json
+3. us-unemployment.csv
