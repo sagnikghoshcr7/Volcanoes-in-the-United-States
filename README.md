@@ -34,3 +34,6 @@ I have created different files for each step in creating the interactive diction
 
 * geo4.py
   * Load Data and use that data to plot markers
+
+* geo5.py
+  * Add colors according to elevation of the Volcanoes
