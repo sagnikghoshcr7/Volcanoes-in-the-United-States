@@ -28,3 +28,6 @@ I have created different files for each step in creating the interactive diction
 
 * geo2.py
   * Add a single marker using folium.Marker
+
+* geo3.py
+  * Add multiple markers with help of 'for' loop
