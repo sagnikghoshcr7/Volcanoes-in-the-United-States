@@ -4,3 +4,9 @@ With help of Python and Folium, visualize active Volcanoes in the United States.
 ## 1. Installing dependencies
 
 Installing dependencies is the first thing you want to do.
+
+```
+#Library
+pip install folium
+
+```
