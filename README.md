@@ -48,3 +48,9 @@ I have created different files for each step in creating the interactive diction
   * The code for the choropleth map (US unemployment rate in %)
 
 *Note: All files are integrated with comments to help you understand each and every line/command of the code.*
+
+### Run All Together
+The file geo7.py is the final file. Execute the file and refresh.re-open the map to see the changes.
+```
+python geo7.py
+```
